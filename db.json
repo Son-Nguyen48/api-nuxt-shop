@@ -1592,8 +1592,8 @@
     {
       "name": "Son2k",
       "address": "Hai Phong",
-      "phone": "0387758077",
-      "email": "theson4895@gmail.com",
+      "phone": "0999999999",
+      "email": "son2k@gmail.com",
       "paymentsMethods": "delivery_payments",
       "totalPayment": "19832000",
       "orderStatus": "pending",
@@ -1670,8 +1670,8 @@
     {
       "name": "Son",
       "address": "Thanh Pho Hai Phong",
-      "phone": "0387758077",
-      "email": "theson4895@gmail.com",
+      "phone": "0999999999",
+      "email": "son2k@gmail.com",
       "paymentsMethods": "delivery_payments",
       "totalPayment": "17135000",
       "orderStatus": "wait_to_pay",
@@ -4465,7 +4465,7 @@
   "accounts": [
     {
       "name": "Son2kNguyen",
-      "phone": "0387758077",
+      "phone": "0999999999",
       "email": "son2k@gmail.com",
       "address": "Vietnam",
       "nationality": "Vietnam",
@@ -4477,8 +4477,8 @@
     },
     {
       "name": "son",
-      "phone": "0387758077",
-      "email": "theson4895@gmail.com",
+      "phone": "0999999999",
+      "email": "son2k@gmail.com",
       "address": "Vietnam",
       "nationality": "Vietnam",
       "company": "VMO",
@@ -4503,8 +4503,8 @@
   "currentUser": [
     {
       "name": "son",
-      "phone": "0387758077",
-      "email": "theson4895@gmail.com",
+      "phone": "0999999999",
+      "email": "son2k@gmail.com",
       "address": "Vietnam",
       "nationality": "Vietnam",
       "company": "VMO",
