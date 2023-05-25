@@ -4408,14 +4408,7 @@
     {
       "id": 1,
       "name": "Gender",
-      "listFilter": [
-        "man",
-        "woman",
-        "boy",
-        "girl",
-        "children",
-        "unisex"
-      ]
+      "listFilter": ["man", "woman", "boy", "girl", "children", "unisex"]
     },
     {
       "id": 2,
@@ -4500,18 +4493,5 @@
       "id": 3
     }
   ],
-  "currentUser": [
-    {
-      "name": "son",
-      "phone": "0999999999",
-      "email": "son2k@gmail.com",
-      "address": "Vietnam",
-      "nationality": "Vietnam",
-      "company": "VMO",
-      "password": "123456",
-      "dateOfBirth": "2023-05-30",
-      "gender": "Man",
-      "id": 2
-    }
-  ]
+  "currentUser": []
 }
