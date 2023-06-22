@@ -1623,6 +1623,7 @@
       "password": "NTS@gmail.com"
     }
   ],
+<<<<<<< HEAD
   "orders": [
     {
       "name": "Hiep",
@@ -2279,6 +2280,9 @@
       "id": 9
     }
   ],
+=======
+  "orders": [],
+>>>>>>> 0dbfc5b77d6a8960046fdbf26deb8b90413e03d3
   "order_items": [
     {
       "order_id": 1,
@@ -4947,14 +4951,7 @@
     {
       "id": 1,
       "name": "Gender",
-      "listFilter": [
-        "man",
-        "woman",
-        "boy",
-        "girl",
-        "children",
-        "unisex"
-      ]
+      "listFilter": ["man", "woman", "boy", "girl", "children", "unisex"]
     },
     {
       "id": 2,
@@ -5133,4 +5130,8 @@
     }
   ],
   "currentUser": []
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0dbfc5b77d6a8960046fdbf26deb8b90413e03d3
